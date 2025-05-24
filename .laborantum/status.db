@@ -1,0 +1,330 @@
+{
+    "chapters": [
+        {
+            "path": "/texts/course/config.yml",
+            "status": {
+                "total": 12,
+                "correct": 5
+            }
+        },
+        {
+            "path": "/texts/course/1-Pytorch-Intro/config.yml",
+            "status": {
+                "total": 5,
+                "correct": 5
+            }
+        },
+        {
+            "path": "/texts/course/2-Backpropagation/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/3-Gradient-Descent/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/4-Simple-Network/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/2-Gradient-Descent/config.yml",
+            "status": {
+                "total": 5,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/3-Backpropagation/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/5-Feedforward-NN/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/6-Convolutional-NN/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/7-Segmentation/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/8-Detection/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/9-Word2Vec/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        },
+        {
+            "path": "/texts/course/10-Transformer/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0
+            }
+        }
+    ],
+    "lessons": [
+        {
+            "path": "/texts/course/1-Pytorch-Intro/1-Pytorch-Getting-Started/config.yml",
+            "status": {
+                "correct": 5,
+                "total": 5,
+                "testStatus": [
+                    {
+                        "name": "root -> zeros",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> ones",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> custom",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shape -> 0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> shape -> 1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> mean",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> std",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> min_val",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> max_val",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_0_0",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_all_1",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_and_10",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_squared",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_plus_y",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_times_y",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_divided_by_y",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_mod_y",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_exp",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_log",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_sin",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_cos",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_matmul_y",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_greater_than_3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_greater_than_3_and_less_than_10",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_greater_than_10_or_less_than_3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_not_equal_to_3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_vals_greater_than_3",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> y_shallow",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_shallow_victim",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> y_deep",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_cloned",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_dtype",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_double",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_int",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_float",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_half",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_torch",
+                        "ok": true,
+                        "status": "OK"
+                    },
+                    {
+                        "name": "root -> x_sqrt_np",
+                        "ok": true,
+                        "status": "OK"
+                    }
+                ]
+            }
+        },
+        {
+            "path": "/texts/course/2-Gradient-Descent/2-Gradient-Descent-Practice/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/3-Backpropagation/3-Coding-Backprop-In-Numpy/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        },
+        {
+            "path": "/texts/course/4-Simple-Network/4-Training-a-Simple-Network/config.yml",
+            "status": {
+                "total": 1,
+                "correct": 0,
+                "selectedVariantIds": []
+            }
+        }
+    ]
+}
