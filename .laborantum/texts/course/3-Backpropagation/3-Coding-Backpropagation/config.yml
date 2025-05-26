@@ -1,6 +1,6 @@
 type: code
 visible: false
-score: 10
+score: 30
 code: []
 run:
   - jupyter-execute "${relativeTaskPath}/task.ipynb"
